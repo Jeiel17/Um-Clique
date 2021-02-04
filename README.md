@@ -1,9 +1,9 @@
 # Um-Clique.
 # Não é o código do aplicativo e sim um guia.
-#Compatilha com pessoas mais próximas, mais esse guia, copiando o código abaixo 👇 
+#Compatilha com pessoas mais próximas, mais esse guia, copiando abaixo 👇 
 
 <html>
-<title>API do WhatsApp no meu aplicativo.</title>
+API do WhatsApp no meu aplicativo.
 <br>
 <p>Esse aplicativo ajuda muito na hora de não quereis adicionar aos seus contatos do dispositivo. Na aba inicial, você insere o contato com DDD, mais o número do telefone e clique em enviar.</p>
 <p>Irá se abrir o WhatsApp.</p>
